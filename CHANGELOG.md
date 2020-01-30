@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.36.1](https://www.github.com/googleapis/java-kms/compare/v1.36.0...v1.36.1) (2020-01-30)
+
+
+### Dependencies
+
+* update core dependencies ([#44](https://www.github.com/googleapis/java-kms/issues/44)) ([6f88400](https://www.github.com/googleapis/java-kms/commit/6f88400b0730876d2e996482e823205caf3b5aaf))
+* update dependency com.google.guava:guava-bom to v28.2-android ([#42](https://www.github.com/googleapis/java-kms/issues/42)) ([94424a9](https://www.github.com/googleapis/java-kms/commit/94424a9f23d236f2a9f072864e970527e23564ff))
+* update dependency org.threeten:threetenbp to v1.4.1 ([8205dcb](https://www.github.com/googleapis/java-kms/commit/8205dcb4e50087eb7cec49232cb09f35d02882fa))
+
 ## [1.36.0](https://www.github.com/googleapis/java-kms/compare/v1.35.1...v1.36.0) (2020-01-07)
 
 
